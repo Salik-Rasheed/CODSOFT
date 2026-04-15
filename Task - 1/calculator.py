@@ -221,7 +221,7 @@ sci_frame = tk.Frame(root, bg="#000000")
 sci_buttons = [
     ["√(", "^", "log(", "ln("],
     ["x²", "x³", "1/x", "!"],
-    ["π", "e",")"]
+    ["π", "e",")", "⌫"]
 ]
 
 for r, row in enumerate(sci_buttons):
