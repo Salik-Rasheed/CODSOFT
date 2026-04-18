@@ -27,7 +27,7 @@ class ModernTodoApp:
         self.tasks = load_tasks()
 
         # -------- TITLE --------
-        title = tk.Label(root, text="✨ Smart Task Manager ✨", font=("Segoe UI", 18, "bold"), bg="#1e1e2f", fg="#ffffff")
+        title = tk.Label(root, text="✨ Smart To-Do App ✨", font=("Segoe UI", 18, "bold"), bg="#1e1e2f", fg="#ffffff")
         title.pack(pady=10)
 
         # -------- INPUT FRAME --------
