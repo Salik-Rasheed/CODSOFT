@@ -20,14 +20,14 @@ def save_tasks(tasks):
 class ModernTodoApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("🚀 Smart To-Do App")
+        self.root.title("🚀 To-Do List")
         self.root.geometry("650x550")
         self.root.configure(bg="#1e1e2f")
 
         self.tasks = load_tasks()
 
         # -------- TITLE --------
-        title = tk.Label(root, text="✨ Smart To-Do App ✨", font=("Segoe UI", 18, "bold"), bg="#1e1e2f", fg="#ffffff")
+        title = tk.Label(root, text="✨ To-Do List ✨", font=("Segoe UI", 18, "bold"), bg="#1e1e2f", fg="#ffffff")
         title.pack(pady=10)
 
         # -------- INPUT FRAME --------
