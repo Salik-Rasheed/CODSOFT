@@ -39,7 +39,7 @@ A secure password generator built using Python that creates strong and random pa
 
 ## 📌 Note
 
-Each task is organized in its own folder with separate code and README file.
+Each task is organized in its own folder with separate code 
 
 ---
 
