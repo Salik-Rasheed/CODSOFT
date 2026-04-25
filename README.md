@@ -20,6 +20,7 @@ A modern GUI-based game built using Tkinter with:
 - Progress bar and animations
 
 ###🔹 Task 4 - Password Generator 🔐
+
 A secure password generator built using Python that creates strong and random passwords.
 - Customizable password length
 - Mix of uppercase, lowercase, numbers, and symbols
